@@ -144,7 +144,7 @@ function Questionnaire() {
                     <h2>{result.title}</h2>
                     <p>{result.description}</p>
                     <button 
-                        onClick={() => window.location.href = 'https://www.divenliespa.fr/massage-toulouse/'}
+                        onClick={() => window.location.href = 'https://www.divenliespa.fr/réservation/'}
                         className="cta-button"
                     >
                         Prendre rendez-vous
